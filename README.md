@@ -29,7 +29,7 @@ Je développe des solutions web et mobile sur mesure, de l'idée au produit fini
 
 ### IA générative
 
-<img src="https://www.google.com/s2/favicons?domain=claude.ai&sz=64" width="32" height="32" title="Claude Code" /> <img src="https://www.google.com/s2/favicons?domain=midjourney.com&sz=64" width="32" height="32" title="Midjourney" /> ![Prompting](https://img.shields.io/badge/Prompting-4B5563?style=flat-square)
+<img src="https://www.google.com/s2/favicons?domain=claude.ai&sz=64" width="32" height="32" title="Claude Code" /> <img src="https://www.google.com/s2/favicons?domain=midjourney.com&sz=64" width="32" height="32" title="Midjourney" /> ![Prompting](https://img.shields.io/badge/Prompting-4B5563?style=flat-square)<img src="https://www.google.com/s2/favicons?domain=lovart.ai&sz=64" width="32" height="32" title="Lovart" />
 
 <br>
 
